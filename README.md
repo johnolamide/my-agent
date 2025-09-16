@@ -1,7 +1,11 @@
 # AI Code Review Agent
 
+<div align="center">
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
+
+</div>
 
 This project is an AI-powered agent that can review your code, generate commit messages, and create markdown files. It uses Google's Gemini model via the `ai` SDK.
 
